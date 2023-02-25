@@ -49,3 +49,7 @@ body {
       content: "XXL";
     }
   }
+  /*DROPDOWN HOVER*/
+  .dropdown:hover>.dropdown-menu{
+    display: block;
+  }
